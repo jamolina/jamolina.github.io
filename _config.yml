@@ -1,0 +1,25 @@
+# Site settings
+title: Arturo Molina
+header-img: img/home-bg.jpg
+email: arturo@jamolina.com
+copyright_name: Arturo Molina
+description: "Hi! I'm Arturo Molina. This is my blog."
+baseurl: ""
+url: "http://localhost:4000"
+twitter_username: jamolina
+github_username:  jamolina
+facebook_username:  jamolina
+email_username:  arturo@jamolina.com
+
+# Google Analytics
+# To enable google analytics, uncomment below line with a valid Google Tracking ID
+# google_tracking_id:
+
+# Build settings
+markdown: kramdown
+highlighter: rouge
+permalink: pretty
+paginate: 5
+exclude: ["less","node_modules","Gruntfile.js","package.json","README.md"]
+
+gems: [jekyll-paginate, jekyll-feed]
