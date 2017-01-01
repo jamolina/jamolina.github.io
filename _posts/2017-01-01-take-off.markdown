@@ -3,7 +3,7 @@ layout:     post
 title:      "Take Off"
 subtitle:   "Starting over."
 date:       2017-01-01 12:00:00
-comments:   true
+comments:   false
 header-img: "img/take-off.jpg"
 ---
 
