@@ -12,6 +12,10 @@ description: "Hi! I'm Arturo Molina. This is my blog."
         <h3 class="post-subtitle">
             {{ post.subtitle }}
         </h3>
+        {% else %}
+        <h3 class="post-subtitle">
+            {{ post.excerpt }}
+        </h3>
         {% endif %}
     </a>
     <p class="post-meta">Posted on {{ post.date | date: "%B %-d, %Y" }}</p>

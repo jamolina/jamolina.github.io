@@ -6,7 +6,9 @@ comments:   true
 header-img: "img/owasp-1-1.jpg"
 ---
 
-This is the first in a series of post related to OWASP Top 10 Web Application Security Risks. These are mostly my notes on [Troy Hunt's](https://www.troyhunt.com/) [Pluralsight](https://www.pluralsight.com/) course: [OWASP Top 10 Web Application Security Risks for ASP.NET](https://app.pluralsight.com/library/courses/owasp-top10-aspdotnet-application-security-risks/table-of-contents)
+This is the first in a series of post related to OWASP Top 10 Web Application Security Risks. 
+
+These are mostly my notes on [Troy Hunt's](https://www.troyhunt.com/) Pluralsight course: [OWASP Top 10 Web Application Security Risks for ASP.NET](https://app.pluralsight.com/library/courses/owasp-top10-aspdotnet-application-security-risks/table-of-contents)
 
 Now, the #1 vulnerability ([from 2013 data](https://www.owasp.org/index.php/Top_10_2013-A1-Injection)) is Injection. I still remember being burned by this one when I developed a small library management web application for a school library back when I was in college (I would like to say I know better nowadays). [OWASP defines Injection](https://www.owasp.org/index.php/Top_10_2013-Top_10) as:
 
