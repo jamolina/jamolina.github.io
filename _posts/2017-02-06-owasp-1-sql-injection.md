@@ -4,6 +4,7 @@ title:      "OWASP Top 10 Part 1 - SQL Injection"
 date:       2017-02-06 22:00:00
 comments:   true
 header-img: "img/owasp-1-1.jpg"
+tags: [owasp, security]
 ---
 
 This is the first in a series of post related to OWASP Top 10 Web Application Security Risks. 

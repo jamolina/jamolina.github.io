@@ -29,6 +29,12 @@ layout: default
 
 				{{ content }}
 
+                <div id="tags" class="text-center tags">
+                    {% for tag in page.tags %}
+                    <a href="#tags">{{ tag }}</a>
+                    {% endfor %}
+                </div>
+
                 <hr>
 
                 {% if page.comments %} 
