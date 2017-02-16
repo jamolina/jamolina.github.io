@@ -4,6 +4,8 @@ title:      "The At Symbol"
 date:       2017-02-06 22:00:00
 comments:   true
 header-img: "img/b2b-at-symbol.jpg"
+header-img-author: "Dustin Gaffke"
+header-img-url: "https://flic.kr/p/m5P8xb"
 tags: [back-to-basics]
 ---
 
@@ -34,4 +36,4 @@ bool @bool;
 
 So as they say, you learn something new every day :-)
 
-Photo from [Dustin Gaffke](https://www.flickr.com/photos/onepointfour/13181596964/in/photolist-m5P8xb-BzC16W-pjHo3D-JBMG2-posear-CTJJCZ-rQn87f-BwgkCm-HwAmWz-uV8cf-a9hqxD-8d2Dko-8N9ZAP-dtBBM-3A2Jh2-bEMZdh-nZBb5b-66DxA-9VmVHi-pJE1q3-ai8W9W-8U4voa-rAwj3S-57Kc9t-9s8LrU-pNj6fn-ddCAvq-pGsvA4-fj96kb-omNx9z-hW23Nq-jWtDoa-6TKqG4-q3hKja-dok1G7-sBUJSr-5XGAAq-bDCYRc-pNQhW5-pRXsWC-7W42bW-a8aeY1-jgRMY-4UXSiv-pwtsS3-3zUQ7r-dNWgK8-di6tkc-cPyCCq-aazmBh)
+<p><small>Photo from <a href=""></a></small></p>

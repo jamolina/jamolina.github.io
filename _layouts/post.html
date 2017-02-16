@@ -29,6 +29,10 @@ layout: default
 
 				{{ content }}
 
+                {% if page.header-img-author and page.header-img-url %}
+                <p><small>Photo from <a href="{{ page.header-img-url }}">{{ page.header-img-author }}</a></small></p>
+                {% endif %}
+
                 <div id="tags" class="text-center tags">
                     {% for tag in page.tags %}
                     <a href="#tags">{{ tag }}</a>
