@@ -1,6 +1,7 @@
 ---
 layout:     post
-title:      "OWASP Top 10 Part 1 - SQL Injection"
+title:      "SQL Injection"
+subtitle:   "OWASP Top 10"
 date:       2017-02-06 22:00:00
 comments:   true
 header-img: "img/owasp-1-1.jpg"

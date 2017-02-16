@@ -1,12 +1,13 @@
 ---
 layout:     post
 title:      "The At Symbol"
+subtitle:   "Back to Basics"
 date:       2017-02-06 22:00:00
 comments:   true
 header-img: "img/b2b-at-symbol.jpg"
 header-img-author: "Dustin Gaffke"
 header-img-url: "https://flic.kr/p/m5P8xb"
-tags: [back-to-basics]
+tags: [back to basics, csharp]
 ---
 
 I have been using C# and .NET for over 10 years now and recently I have started to dig here and there for little details of the language and the framework. The other day, I came across an interesting sort of new way of using the `at symbol` `"@"`. And I say sort of new because I had used this before but I never really internalize it.
