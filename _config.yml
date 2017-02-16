@@ -5,7 +5,7 @@ header-img: img/home-bg.jpg
 email: arturo@jamolina.com
 copyright_name: Arturo Molina
 description: "Hi! I'm Arturo Molina. This is my blog."
-baseurl: ""
+baseurl: "http://jamolina.com"
 url: "http://jamolina.com"
 twitter_username: jamolina
 github_username:  jamolina
