@@ -36,5 +36,3 @@ bool @bool;
 {% endhighlight %}
 
 So as they say, you learn something new every day :-)
-
-<p><small>Photo from <a href=""></a></small></p>
