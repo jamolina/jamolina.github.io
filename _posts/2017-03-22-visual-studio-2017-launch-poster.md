@@ -1,7 +1,7 @@
 ---
 layout:     post
 title:      "Visual Studio 2017 Launch Poster"
-subtitle:   "Best Git cheat sheet ever :-)"
+subtitle:   "Best Git cheat sheet ever :)"
 date:       2017-03-22 06:30:00
 comments:   true
 header-img: "img/vs2017-launch-poster.png"
